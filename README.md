@@ -1,2 +1,10 @@
-# hack-216d04e2-ashyqaspan
-Hackathon team repository for ashyqaspan
+# FAQ-бот
+
+Простой терминальный бот, который отвечает на 5 заранее известных вопросов о репетиции.
+
+## Запуск
+
+Нужен Python 3.
+
+```bash
+python main.py
